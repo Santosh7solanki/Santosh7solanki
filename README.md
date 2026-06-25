@@ -197,7 +197,7 @@ https://www.linkedin.com/in/santosh-solanki-36599b186/
 https://github.com/Santosh7solanki
 
 🌎 Portfolio
-Coming Soon 🚀
+https://about-santosh.vercel.app/
 
 📧 Email
 [santoshsolanki0716@gmail.com](mailto:santoshsolanki0716@gmail.com)
